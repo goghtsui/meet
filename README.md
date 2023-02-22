@@ -1,2 +1,2 @@
-# meet.github.io
+# meet
 An easy site navigation.
